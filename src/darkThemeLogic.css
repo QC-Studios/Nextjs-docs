@@ -1,0 +1,41 @@
+
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@plugin "@tailwindcss/forms";
+@plugin "@tailwindcss/aspect-ratio";
+
+/* ---- Base ---- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* 🌞 Light theme (default) */
+body {
+  @apply bg-white text-gray-900 transition-colors duration-300;
+}
+
+/* 🌚 Dark theme */
+html.dark body {
+  @apply bg-gray-950 text-gray-100;
+}
+
+/* Scrollbar styling (optional) */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 4px;
+}
+
+/* Code block tweaks */
+pre code {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.9rem;
+}
+
+/* Prose override */
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  scroll-margin-top: 100px;
+}
