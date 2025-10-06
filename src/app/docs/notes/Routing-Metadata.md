@@ -211,7 +211,3 @@ export const metadata = {
 5. Title के लिए advanced object usage adopt करें → scalable apps में ज्यादा control मिलता है
 
 ---
-
-👉 अब ये documentation **Routing Metadata** को complete cover करता है — basic से लेकर advanced `title` usage तक।
-
-Abhay, क्या चाहोगे कि मैं अगला topic में `description`, `openGraph`, `robots` etc. को भी इसी तरह deep-dive examples और precedence rules के साथ समझाऊं?

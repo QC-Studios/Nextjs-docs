@@ -1,5 +1,3 @@
-perfect 😎
-yaha mai tumhare liye **next batch of docs** ready kar dunga, same deployed-style format me, jisse tumhare site complete ho jaaye.
 
 ---
 

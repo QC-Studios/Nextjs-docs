@@ -169,9 +169,3 @@ export default function UpdateForm() {
 
 ---
 
-## 📚 Additional Resources
-
-* [Next.js 15 Documentation: Data Fetching](https://nextjs.org/docs/app-router/building-your-application/data-fetching)
-* [React 19 Documentation: fetch](https://react.dev/reference/react-dom/server/fetch) for server-side fetching
-
----

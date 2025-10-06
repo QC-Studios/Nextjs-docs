@@ -108,5 +108,3 @@ export default function HomePage() {
 4. Client components को **छोटा और interactive UI पर focus** रखें।
 
 ---
-
-क्या आप चाहोगे कि मैं आपको एक **combined example (Server + Client Only + Server Only)** बनाकर दिखाऊँ, जिससे पूरा flow clear हो जाए?

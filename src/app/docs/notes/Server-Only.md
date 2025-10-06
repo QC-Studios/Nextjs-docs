@@ -119,5 +119,3 @@ export default function ClientProfile() {
 ---
 
 👉 अब आप सुरक्षित तरीके से server और client boundaries maintain कर सकते हो।
-
-क्या आप चाहोगे कि मैं इसी example को **middleware + cookies + server-only** combine करके एक full authentication flow बना दूँ?
