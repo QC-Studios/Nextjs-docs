@@ -97,4 +97,3 @@ export default function HomePage() {
 
 ---
 
-Would you like me to also list **all common Context Providers use cases in Next.js apps** (like Auth, Theme, User, Language, etc.)?
